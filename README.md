@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhizarAziz
 - 👀 I’m interested in AI, Data Sciences and Machine Learning real world problems.
 - 🌱 I’m currently learning Transformers for NLP Tasks using Tensorflow.
-- 💞️ I’m looking to join Amazing teams working on AI.
+- Looking to join Amazing teams working on AI.
 - 📫 You can reach me on khizer.awan@gmail.com
 
 <!---
